@@ -1,2 +1,2 @@
 # CompilerDesign
-a respository that contains compiler design expts
+a respository that contains compiler design experiments
